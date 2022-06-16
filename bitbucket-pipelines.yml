@@ -1,0 +1,20 @@
+image: node:10.16.0
+pipelines:
+  default:
+    - step:
+        caches:
+          - node
+        script: # Modify the commands below to build your repository.
+          - npm install
+
+    - step:
+        name: Deploy to production
+        deployment: production
+
+        script:
+          - echo "Deploying to production environment"
+          - pipe: atlassian/ssh-run:0.2.2
+            variables:
+              SSH_USER: 'centos'
+              SERVER: '3.208.250.238'
+              COMMAND: '/home/centos/deployment/lamsat-node.sh'

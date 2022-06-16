@@ -1,0 +1,75 @@
+"use strict";
+
+const Sequelize = require("sequelize");
+
+// For more information about Sequelize Data Types :
+// http://docs.sequelizejs.com/manual/tutorial/models-definition.html#data-types
+
+
+module.exports = {
+	name: "mvat",
+	define: {
+        id: { // id must always exist
+			type: Sequelize.INTEGER,
+			autoIncrement: true,
+			primaryKey: true,
+			allowNull: false,
+        },
+
+        vatkey: { // Default Unique Key for Country
+			type: Sequelize.UUID,
+			defaultValue: Sequelize.UUIDV4,
+			allowNull: true,
+		},
+		vat: {
+			type: Sequelize.INTEGER,
+            allowNull: true
+		},
+		commision: {
+			type: Sequelize.INTEGER,
+            allowNull: true
+		},
+		commisiontype: {
+			type: Sequelize.TINYINT,
+			allowNull:true,
+			defaultValue:1
+		},
+		vattype: {
+			type: Sequelize.TINYINT,
+			allowNull:true,
+			defaultValue:1
+		},
+		status: {
+			type: Sequelize.INTEGER,
+            allowNull: true,
+            defaultValue: 1
+        },
+		created_by: {
+			type: Sequelize.INTEGER,
+			allowNull: true,
+        },
+
+		created_at: {
+			type: Sequelize.DATE,
+			allowNull: true,
+        },
+
+		updated_by: {
+			type: Sequelize.INTEGER,
+			allowNull: true,
+        },
+
+		updated_at: {
+			type: Sequelize.DATE(4),
+			allowNull: true
+		},
+		version: {
+			type: Sequelize.DATE,
+			allowNull: true
+		}
+	},
+	options: {
+        timestamps: false,
+        tableName: 'mvat'
+	}
+};

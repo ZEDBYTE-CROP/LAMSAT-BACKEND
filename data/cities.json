@@ -1,0 +1,527 @@
+[
+  {
+    "city_id": 1,
+    "name_ar": "Al-Abwa",
+    "name_en": "Al-Abwa"
+  },
+  {
+    "city_id": 2,
+    "name_ar": "Al Artaweeiyah",
+    "name_en": "Al Artaweeiyah"
+  },
+  {
+    "city_id": 3,
+    "name_ar": "Badr",
+    "name_en": "Badr"
+  },
+  {
+    "city_id": 4,
+    "name_ar": "Baljurashi",
+    "name_en": "Baljurashi"
+  },
+  {
+    "city_id": 5,
+    "name_ar": "Bisha",
+    "name_en": "Bisha"
+  },
+  {
+    "city_id": 6,
+    "name_ar": "Bareg",
+    "name_en": "Bareg"
+  },
+  {
+    "city_id": 7,
+    "name_ar": "Buraydah",
+    "name_en": "Buraydah"
+  },
+  {
+    "city_id": 8,
+    "name_ar": "Al Bahah",
+    "name_en": "Al Bahah"
+  },
+  {
+    "city_id": 9,
+    "name_ar": "Buq a",
+    "name_en": "Buq a"
+  },
+  {
+    "city_id": 10,
+    "name_ar": "Dammam",
+    "name_en": "Dammam"
+  },
+  {
+    "city_id": 11,
+    "name_ar": "Dhahran",
+    "name_en": "Dhahran"
+  },
+  {
+    "city_id": 12,
+    "name_ar": "Dhurma",
+    "name_en": "Dhurma"
+  },
+  {
+    "city_id": 13,
+    "name_ar": "Dahaban",
+    "name_en": "Dahaban"
+  },
+  {
+    "city_id": 14,
+    "name_ar": "Diriyah",
+    "name_en": "Diriyah"
+  },
+  {
+    "city_id": 15,
+    "name_ar": "Duba",
+    "name_en": "Duba"
+  },
+  {
+    "city_id": 16,
+    "name_ar": "Dumat Al-Jandal",
+    "name_en": "Dumat Al-Jandal"
+  },
+  {
+    "city_id": 17,
+    "name_ar": "Dawadmi",
+    "name_en": "Dawadmi"
+  },
+  {
+    "city_id": 18,
+    "name_ar": "Farasan city",
+    "name_en": "Farasan city"
+  },
+  {
+    "city_id": 19,
+    "name_ar": "Gatgat",
+    "name_en": "Gatgat"
+  },
+  {
+    "city_id": 20,
+    "name_ar": "Gerrha",
+    "name_en": "Gerrha"
+  },
+  {
+    "city_id": 21,
+    "name_ar": "Gurayat",
+    "name_en": "Gurayat"
+  },
+  {
+    "city_id": 22,
+    "name_ar": "Al-Gwei'iyyah",
+    "name_en": "Al-Gwei'iyyah"
+  },
+  {
+    "city_id": 23,
+    "name_ar": "Hautat Sudair",
+    "name_en": "Hautat Sudair"
+  },
+  {
+    "city_id": 24,
+    "name_ar": "Habala",
+    "name_en": "Habala"
+  },
+  {
+    "city_id": 25,
+    "name_ar": "Hajrah",
+    "name_en": "Hajrah"
+  },
+  {
+    "city_id": 26,
+    "name_ar": "Haql",
+    "name_en": "Haql"
+  },
+  {
+    "city_id": 27,
+    "name_ar": "Al-Hareeq",
+    "name_en": "Al-Hareeq"
+  },
+  {
+    "city_id": 28,
+    "name_ar": "Harmah",
+    "name_en": "Harmah"
+  },
+  {
+    "city_id": 29,
+    "name_ar": "Ha'il",
+    "name_en": "Ha'il"
+  },
+  {
+    "city_id": 30,
+    "name_ar": "Hotat Bani Tamim",
+    "name_en": "Hotat Bani Tamim"
+  },{
+    "city_id": 31,
+    "name_ar": "Hofuf",
+    "name_en": "Hofuf"
+  },
+  {
+    "city_id": 32,
+    "name_ar": "Huraymila",
+    "name_en": "Huraymila"
+  },
+  {
+    "city_id": 33,
+    "name_ar": "Hafr Al-Batin",
+    "name_en": "Hafr Al-Batin"
+  },
+  {
+    "city_id": 34,
+    "name_ar": "Jabal Umm al Ru'us",
+    "name_en": "Jabal Umm al Ru'us"
+  },
+  {
+    "city_id": 35,
+    "name_ar": "Jalajil",
+    "name_en": "Jalajil"
+  },
+  {
+    "city_id": 36,
+    "name_ar": "Al Jawf",
+    "name_en": "Al Jawf"
+  },
+  {
+    "city_id": 37,
+    "name_ar": "Jeddah",
+    "name_en": "Jeddah"
+  },
+  {
+    "city_id": 38,
+    "name_ar": "Jizan",
+    "name_en": "Jizan"
+  },
+  {
+    "city_id": 39,
+    "name_ar": "Jizan Economic City",
+    "name_en": "Jizan Economic City"
+  },
+  {
+    "city_id": 40,
+    "name_ar": "Jubail",
+    "name_en": "Jubail"
+  },
+  {
+    "city_id": 41,
+    "name_ar": "Al Jafer",
+    "name_en": "Al Jafer"
+  },
+  {
+    "city_id": 42,
+    "name_ar": "Khafji",
+    "name_en": "Khafji"
+  },
+  {
+    "city_id": 43,
+    "name_ar": "Khaybar",
+    "name_en": "Khaybar"
+  },
+  {
+    "city_id": 44,
+    "name_ar": "King Abdullah Economic City",
+    "name_en": "King Abdullah Economic City"
+  },
+  {
+    "city_id": 45,
+    "name_ar": "Khamis Mushayt",
+    "name_en": "Khamis Mushayt"
+  },
+  {
+    "city_id": 46,
+    "name_ar": "Al Kharj",
+    "name_en": "Al Kharj"
+  },
+  {
+    "city_id": 47,
+    "name_ar": "Knowledge Economic City , Medina",
+    "name_en": "Knowledge Economic City , Medina"
+  },
+  {
+    "city_id": 48,
+    "name_ar": "Khobar",
+    "name_en": "Khobar"
+  },
+  {
+    "city_id": 49,
+    "name_ar": "Al-Khutt",
+    "name_en": "Al-Khutt"
+  },
+  {
+    "city_id": 50,
+    "name_ar": "Layla",
+    "name_en": "Layla"
+  },
+  {
+    "city_id": 51,
+    "name_ar": "Lihyan",
+    "name_en": "Lihyan"
+  },
+  {
+    "city_id": 52,
+    "name_ar": "Al Lith",
+    "name_en": "Al Lith"
+  },
+  {
+    "city_id": 53,
+    "name_ar": "Al Majma'ah",
+    "name_en": "Al Majma'ah"
+  },
+  {
+    "city_id": 54,
+    "name_ar": "Mastoorah",
+    "name_en": "Mastoorah"
+  },
+  {
+    "city_id": 55,
+    "name_ar": "Al Mikhwah",
+    "name_en": "Al Mikhwah"
+  },
+  {
+    "city_id": 56,
+    "name_ar": "Al-Mubarraz",
+    "name_en": "Al-Mubarraz"
+  },
+  {
+    "city_id": 57,
+    "name_ar": "Al Mawain",
+    "name_en": "Al Mawain"
+  },
+  {
+    "city_id": 58,
+    "name_ar": "Mecca",
+    "name_en": "Mecca"
+  },
+  {
+    "city_id": 59,
+    "name_ar": "Medina",
+    "name_en": "Medina"
+  },
+  {
+    "city_id": 60,
+    "name_ar": "Muzahmiyya",
+    "name_en": "Muzahmiyya"
+  },
+  {
+    "city_id": 61,
+    "name_ar": "Najran",
+    "name_en": "Najran"
+  },
+  {
+    "city_id": 62,
+    "name_ar": "Al-Namas",
+    "name_en": "Al-Namas"
+  },
+  {
+    "city_id": 63,
+    "name_ar": "Omloj",
+    "name_en": "Omloj"
+  },
+  {
+    "city_id": 64,
+    "name_ar": "Al-Omran",
+    "name_en": "Al-Omran"
+  },
+  {
+    "city_id": 65,
+    "name_ar": "Al-Oyoon",
+    "name_en": "Al-Oyoon"
+  },
+  {
+    "city_id": 66,
+    "name_ar": "Qadeimah",
+    "name_en": "Qadeimah"
+  },
+  {
+    "city_id": 67,
+    "name_ar": "Qatif",
+    "name_en": "Qatif"
+  },
+  {
+    "city_id": 68,
+    "name_ar": "Qaisumah",
+    "name_en": "Qaisumah"
+  },
+  {
+    "city_id": 69,
+    "name_ar": "Al Qunfudhah",
+    "name_en": "Al Qunfudhah"
+  },
+  {
+    "city_id": 70,
+    "name_ar": "Rabigh",
+    "name_en": "Rabigh"
+  },
+  {
+    "city_id": 71,
+    "name_ar": "Rafha",
+    "name_en": "Rafha"
+  },
+  {
+    "city_id": 72,
+    "name_ar": "Ar Rass",
+    "name_en": "Ar Rass"
+  },
+  {
+    "city_id": 73,
+    "name_ar": "Ras Tanura",
+    "name_en": "Ras Tanura"
+  },
+  {
+    "city_id": 74,
+    "name_ar": "Riyadh",
+    "name_en": "Riyadh"
+  },
+  {
+    "city_id": 75,
+    "name_ar": "Riyadh Al-Khabra",
+    "name_en": "Riyadh Al-Khabra"
+  },
+  {
+    "city_id": 76,
+    "name_ar": "Rumailah",
+    "name_en": "Rumailah"
+  },
+  {
+    "city_id": 77,
+    "name_ar": "Sabt Al Alaya",
+    "name_en": "Sabt Al Alaya"
+  },
+  {
+    "city_id": 78,
+    "name_ar": "Saihat",
+    "name_en": "Saihat"
+  },
+  {
+    "city_id": 79,
+    "name_ar": "Safwa city",
+    "name_en": "Safwa city"
+  },
+  {
+    "city_id": 80,
+    "name_ar": "Sakakah",
+    "name_en": "Sakakah"
+  },
+  {
+    "city_id": 81,
+    "name_ar": "Sharurah",
+    "name_en": "Sharurah"
+  },
+  {
+    "city_id": 82,
+    "name_ar": "Shaqraa",
+    "name_en": "Shaqraa"
+  },
+  {
+    "city_id": 83,
+    "name_ar": "Shaybah",
+    "name_en": "Shaybah"
+  },
+  {
+    "city_id": 84,
+    "name_ar": "As Sulayyil",
+    "name_en": "As Sulayyil"
+  },
+  {
+    "city_id": 85,
+    "name_ar": "Taif",
+    "name_en": "Taif"
+  },
+  {
+    "city_id": 86,
+    "name_ar": "Tabuk",
+    "name_en": "Tabuk"
+  },
+  {
+    "city_id": 87,
+    "name_ar": "Tanomah",
+    "name_en": "Tanomah"
+  },
+  {
+    "city_id": 88,
+    "name_ar": "Tarout",
+    "name_en": "Tarout"
+  },
+  {
+    "city_id": 89,
+    "name_ar": "Tayma",
+    "name_en": "Tayma"
+  },
+  {
+    "city_id": 90,
+    "name_ar": "Thadiq",
+    "name_en": "Thadiq"
+  },
+  {
+    "city_id": 91,
+    "name_ar": "Thuwal",
+    "name_en": "Thuwal"
+  },
+  {
+    "city_id": 92,
+    "name_ar": "Thuqbah",
+    "name_en": "Thuqbah"
+  },
+  {
+    "city_id": 93,
+    "name_ar": "Turaif",
+    "name_en": "Turaif"
+  },
+  {
+    "city_id": 94,
+    "name_ar": "Tabarjal",
+    "name_en": "Tabarjal"
+  },
+  {
+    "city_id": 95,
+    "name_ar": "Udhailiyah",
+    "name_en": "Udhailiyah"
+  },
+  {
+    "city_id": 96,
+    "name_ar": "Al-`Ula",
+    "name_en": "Al-`Ula"
+  },
+  {
+    "city_id": 97,
+    "name_ar": "Um Al-Sahek",
+    "name_en": "Um Al-Sahek"
+  },
+  {
+    "city_id": 98,
+    "name_ar": "Unaizah",
+    "name_en": "Unaizah"
+  },
+  {
+    "city_id": 99,
+    "name_ar": "Uqair",
+    "name_en": "Uqair"
+  },
+  {
+    "city_id": 100,
+    "name_ar": "Uyayna",
+    "name_en": "Uyayna"
+  },
+  {
+    "city_id": 101,
+    "name_ar": "Uyun AlJiwa",
+    "name_en": "Uyun AlJiwa"
+  },
+  {
+    "city_id": 102,
+    "name_ar": "Wadi Al-Dawasir",
+    "name_en": "Wadi Al-Dawasir"
+  },
+  {
+    "city_id": 104,
+    "name_ar": "Al Wajh",
+    "name_en": "Al Wajh"
+  },
+  {
+    "city_id": 105,
+    "name_ar": "Az Zaimah",
+    "name_en": "Az Zaimah"
+  },
+  {
+    "city_id": 106,
+    "name_ar": "Zulfi",
+    "name_en": "Zulfi"
+  }
+ 
+]
